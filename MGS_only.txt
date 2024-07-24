@@ -1,0 +1,9 @@
+Condition			Frequency			Block			Timing File					Info								TaskObject#1							TaskObject#2						TaskObject#3					TaskObject#4			TaskObject#5
+1					1 					2 				mem_saccade_ml2				'angle',0,'marker',120				crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,7,0)				sqr(.6,[1 1 1],1,7,0)			sqr(.6,[0 0 0],1,7,0)
+2					1 					2 				mem_saccade_ml2				'angle',pi/4,'marker',121			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,4.95,4.95)			sqr(.6,[1 1 1],1,4.95,4.95)		sqr(.6,[0 0 0],1,4.95,4.95)
+3					1 					2 				mem_saccade_ml2				'angle',pi/2,'marker',122			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,0,7)				sqr(.6,[1 1 1],1,0,7)			sqr(.6,[0 0 0],1,0,7)
+4					1 					2 				mem_saccade_ml2				'angle',3*pi/4,'marker',123			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,-4.95,4.95)		sqr(.6,[1 1 1],1,-4.95,4.95)	sqr(.6,[0 0 0],1,-4.95,4.95)
+5					1					2				mem_saccade_ml2				'angle',pi,'marker',124				crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,-7,0)				sqr(.6,[1 1 1],1,-7,0)			sqr(.6,[0 0 0],1,-7,0)
+6					1					2				mem_saccade_ml2				'angle',5*pi/4,'marker',125			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,-4.95,-4.95)		sqr(.6,[1 1 1],1,-4.95,-4.95)	sqr(.6,[0 0 0],1,-4.95,-4.95)
+7					1					2				mem_saccade_ml2				'angle',3*pi/2,'marker',126			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,0,-7)				sqr(.6,[1 1 1],1,0,-7)			sqr(.6,[0 0 0],1,0,-7)
+8					1					2				mem_saccade_ml2				'angle',7*pi/4,'marker',127			crc(0.2,[1 1 1],1,0,0)					sqr(.6,[1 1 1],1,4.95,-4.95)		sqr(.6,[1 1 1],1,4.95,-4.95)	sqr(.6,[0 0 0],1,4.95,-4.95)
